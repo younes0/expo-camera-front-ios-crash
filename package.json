@@ -13,7 +13,7 @@
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
     "react-native": "0.73.4",
-    "expo-camera": "~14.0.5",
+    "expo-camera": "14.0.5",
     "expo-dev-client": "~3.3.9"
   },
   "devDependencies": {
