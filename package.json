@@ -6,13 +6,16 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "postinstall": "patch-package"
   },
   "dependencies": {
     "expo": "~50.0.11",
     "expo-camera": "~14.0.6",
     "expo-dev-client": "~3.3.9",
     "expo-status-bar": "~1.11.1",
+    "patch-package": "^8.0.0",
+    "postinstall-postinstall": "^2.1.0",
     "react": "18.2.0",
     "react-native": "0.73.4"
   },
